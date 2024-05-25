@@ -1,0 +1,16 @@
+{
+    "livros": [
+        {
+            "titulo": "O apanhador no campo de centeio",
+            "autor": "J.D. Salinger",
+            "ano": 1945,
+            "disponivel": false
+        },
+        {
+            "titulo": "O mestre e a margarida",
+            "autor": "Mikhail Bulgákov",
+            "ano": 1966,
+            "disponivel": true
+        }
+    ]
+}
